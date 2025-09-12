@@ -1,19 +1,27 @@
 import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import AdminMain from "./admin/AdminMain";
-
+import ShelterMain from "./profiles/shelter/shelterMain"
+import VetMain from "./profiles/veterinarians/vetMain"
 function App() {
   return (
-    <BrowserRouter>
-      <Routes>
+    <>
+      <BrowserRouter>
+        <Routes>
 
-        <Route path="/admin/*" element={<AdminMain />}>
-        </Route>
+          <Route path="/admin/*" element={<AdminMain />}>
+          </Route>
 
-        {/* Public / Login routes */}
-        <Route path="/login" element={<div>Login Page</div>} />
-      </Routes>
-    </BrowserRouter>
+          <Route path="/vet/*" element={<VetMain />}>
+          </Route>
+
+          <Route path="/shelter/*" element={<ShelterMain />}>
+          </Route>
+        </Routes>
+
+      </BrowserRouter>
+      {/* <LoginRegister /> */}
+    </>
   );
 }
 

@@ -1,3 +1,5 @@
+
+
 import React from 'react'
 import NavbarLayout from "./layouts/NavbarLayout"
 import { Route, Routes } from 'react-router-dom'
@@ -9,15 +11,20 @@ import AnimalShelter from './pages/AnimalShelter'
 import Products from './pages/Products'
 import Messages from './pages/Messages'
 import Profile from './pages/Profile'
+import Box from '@mui/material/Box'
 
 
 
 const AdminMain = () => {
     return (
         <>
+            <Box width={"100%"} overflow={'hidden'}>
+              
+          
             <NavbarLayout>
                 <Routes>
                    
+                    <Route path="/" element={<Dashboard/>} />
                     <Route path="dashboard" element={<Dashboard/>} />
                     <Route path="pet-owner" element={<PetOwner/>} />
                     <Route path="vets" element={<Veterinarians/>} />
@@ -27,6 +34,7 @@ const AdminMain = () => {
                     <Route path="profile" element={<Profile/>} />
                 </Routes>
             </NavbarLayout>
+              </Box>
         </>
     )
 }
