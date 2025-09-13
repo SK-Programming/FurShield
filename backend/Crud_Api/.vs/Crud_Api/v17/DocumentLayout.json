@@ -1,177 +1,182 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\",
+  "WorkspaceRootPath": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\std2\\documents\\fursheild\\backend\\crud_api\\crud_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hassan\\source\\repos\\crud_api\\crud_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hassan\\source\\repos\\crud_api\\crud_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\std2\\documents\\fursheild\\backend\\crud_api\\crud_api\\crud_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\crud_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hassan\\source\\repos\\crud_api\\crud_api\\models\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\models\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\std2\\documents\\fursheild\\backend\\crud_api\\crud_api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Migrations\\20250911132748_thursday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Crud_Api\\Migrations\\20250911132748_thursday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\std2\\documents\\fursheild\\backend\\crud_api\\crud_api\\models\\addproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\models\\addproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\std2\\documents\\fursheild\\backend\\crud_api\\crud_api\\controllers\\adoptionlistingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\controllers\\adoptionlistingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\std2\\documents\\fursheild\\backend\\crud_api\\crud_api\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hassan\\source\\repos\\crud_api\\crud_api\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\std2\\documents\\fursheild\\backend\\crud_api\\crud_api\\models\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\models\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\std2\\documents\\fursheild\\backend\\crud_api\\crud_api\\migrations\\20250911092241_addimageurltouserandpet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\migrations\\20250911092241_addimageurltouserandpet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\std2\\documents\\fursheild\\backend\\crud_api\\crud_api\\controllers\\petscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\controllers\\petscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\std2\\documents\\fursheild\\backend\\crud_api\\crud_api\\models\\updatepetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\models\\updatepetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\std2\\documents\\fursheild\\backend\\crud_api\\crud_api\\models\\addpetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\models\\addpetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\std2\\documents\\fursheild\\backend\\crud_api\\crud_api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\std2\\documents\\fursheild\\backend\\crud_api\\crud_api\\models\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\models\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\std2\\documents\\fursheild\\backend\\crud_api\\crud_api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hassan\\source\\repos\\crud_api\\crud_api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\std2\\documents\\fursheild\\backend\\crud_api\\crud_api\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hassan\\source\\repos\\crud_api\\crud_api\\models\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\models\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\std2\\documents\\fursheild\\backend\\crud_api\\crud_api\\models\\updatefeedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\models\\updatefeedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\std2\\documents\\fursheild\\backend\\crud_api\\crud_api\\models\\addfeedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\models\\addfeedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\std2\\documents\\fursheild\\backend\\crud_api\\crud_api\\models\\updateadoptionlistingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\models\\updateadoptionlistingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\std2\\documents\\fursheild\\backend\\crud_api\\crud_api\\models\\addadoptionlistingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\models\\addadoptionlistingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\std2\\documents\\fursheild\\backend\\crud_api\\crud_api\\models\\addappointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\models\\addappointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\std2\\documents\\fursheild\\backend\\crud_api\\crud_api\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\std2\\documents\\fursheild\\backend\\crud_api\\crud_api\\models\\updatecartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\models\\updatecartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\std2\\documents\\fursheild\\backend\\crud_api\\crud_api\\models\\addcartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\models\\addcartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\std2\\documents\\fursheild\\backend\\crud_api\\crud_api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\std2\\documents\\fursheild\\backend\\crud_api\\crud_api\\models\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\models\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\std2\\documents\\fursheild\\backend\\crud_api\\crud_api\\controllers\\healthrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\controllers\\healthrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\std2\\documents\\fursheild\\backend\\crud_api\\crud_api\\models\\updatehealthrecorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\models\\updatehealthrecorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\std2\\documents\\fursheild\\backend\\crud_api\\crud_api\\models\\addhealthrecorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\models\\addhealthrecorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\std2\\documents\\fursheild\\backend\\crud_api\\crud_api\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\std2\\documents\\fursheild\\backend\\crud_api\\crud_api\\migrations\\20250911065933_fixedappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\migrations\\20250911065933_fixedappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Migrations\\20250911055511_Appointment_Api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\std2\\documents\\fursheild\\backend\\crud_api\\crud_api\\models\\updateappointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\models\\updateappointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\std2\\documents\\fursheild\\backend\\crud_api\\crud_api\\migrations\\20250909171633_changephonetolong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\migrations\\20250909171633_changephonetolong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\std2\\documents\\fursheild\\backend\\crud_api\\crud_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hassan\\source\\repos\\crud_api\\crud_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\std2\\documents\\fursheild\\backend\\crud_api\\crud_api\\migrations\\20250909044932_first migratiom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\migrations\\20250909044932_first migratiom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\std2\\documents\\fursheild\\backend\\crud_api\\crud_api\\crud_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hassan\\source\\repos\\crud_api\\crud_api\\crud_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\crud_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\std2\\documents\\fursheild\\backend\\crud_api\\crud_api\\migrations\\20250910165012_pets_entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hassan\\source\\repos\\crud_api\\crud_api\\migrations\\20250911092241_addimageurltouserandpet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\migrations\\20250911092241_addimageurltouserandpet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hassan\\source\\repos\\crud_api\\crud_api\\controllers\\petscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\controllers\\petscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hassan\\source\\repos\\crud_api\\crud_api\\models\\updatepetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\models\\updatepetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hassan\\source\\repos\\crud_api\\crud_api\\models\\addpetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\models\\addpetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hassan\\source\\repos\\crud_api\\crud_api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hassan\\source\\repos\\crud_api\\crud_api\\models\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\models\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hassan\\source\\repos\\crud_api\\crud_api\\models\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\models\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hassan\\source\\repos\\crud_api\\crud_api\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hassan\\source\\repos\\crud_api\\crud_api\\models\\updatefeedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\models\\updatefeedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hassan\\source\\repos\\crud_api\\crud_api\\models\\addfeedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\models\\addfeedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hassan\\source\\repos\\crud_api\\crud_api\\controllers\\adoptionlistingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\controllers\\adoptionlistingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hassan\\source\\repos\\crud_api\\crud_api\\models\\updateadoptionlistingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\models\\updateadoptionlistingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hassan\\source\\repos\\crud_api\\crud_api\\models\\addadoptionlistingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\models\\addadoptionlistingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hassan\\source\\repos\\crud_api\\crud_api\\models\\addappointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\models\\addappointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hassan\\source\\repos\\crud_api\\crud_api\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hassan\\source\\repos\\crud_api\\crud_api\\models\\updatecartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\models\\updatecartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hassan\\source\\repos\\crud_api\\crud_api\\models\\addcartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\models\\addcartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hassan\\source\\repos\\crud_api\\crud_api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hassan\\source\\repos\\crud_api\\crud_api\\models\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\models\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hassan\\source\\repos\\crud_api\\crud_api\\models\\addproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\models\\addproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hassan\\source\\repos\\crud_api\\crud_api\\controllers\\healthrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\controllers\\healthrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hassan\\source\\repos\\crud_api\\crud_api\\models\\updatehealthrecorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\models\\updatehealthrecorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hassan\\source\\repos\\crud_api\\crud_api\\models\\addhealthrecorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\models\\addhealthrecorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hassan\\source\\repos\\crud_api\\crud_api\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hassan\\source\\repos\\crud_api\\crud_api\\migrations\\20250911065933_fixedappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\migrations\\20250911065933_fixedappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Migrations\\20250911055511_Appointment_Api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Crud_Api\\Migrations\\20250911055511_Appointment_Api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hassan\\source\\repos\\crud_api\\crud_api\\models\\updateappointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\models\\updateappointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hassan\\source\\repos\\crud_api\\crud_api\\migrations\\20250909171633_changephonetolong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\migrations\\20250909171633_changephonetolong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hassan\\source\\repos\\crud_api\\crud_api\\migrations\\20250909044932_first migratiom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\migrations\\20250909044932_first migratiom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hassan\\source\\repos\\crud_api\\crud_api\\migrations\\20250910165012_pets_entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\migrations\\20250910165012_pets_entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\std2\\documents\\fursheild\\backend\\crud_api\\crud_api\\migrations\\20250910141809_db_to_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hassan\\source\\repos\\crud_api\\crud_api\\migrations\\20250910141809_db_to_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\migrations\\20250910141809_db_to_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\std2\\documents\\fursheild\\backend\\crud_api\\crud_api\\migrations\\20250911084235_addoption_listing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hassan\\source\\repos\\crud_api\\crud_api\\migrations\\20250911084235_addoption_listing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\migrations\\20250911084235_addoption_listing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\std2\\documents\\fursheild\\backend\\crud_api\\crud_api\\migrations\\20250911082615_cart_system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hassan\\source\\repos\\crud_api\\crud_api\\migrations\\20250911082615_cart_system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\migrations\\20250911082615_cart_system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\std2\\documents\\fursheild\\backend\\crud_api\\crud_api\\migrations\\20250911081018_products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hassan\\source\\repos\\crud_api\\crud_api\\migrations\\20250911081018_products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\migrations\\20250911081018_products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\std2\\documents\\fursheild\\backend\\crud_api\\crud_api\\migrations\\20250911075452_health_record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hassan\\source\\repos\\crud_api\\crud_api\\migrations\\20250911075452_health_record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\migrations\\20250911075452_health_record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|c:\\users\\hassan\\source\\repos\\crud_api\\crud_api\\migrations\\20250912081709_addpasswordhashtouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DABC6B-A9FC-4F42-BCE1-0088E46B51B7}|Crud_Api\\Crud_Api.csproj|solutionrelative:crud_api\\migrations\\20250912081709_addpasswordhashtouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -181,67 +186,64 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Crud_Api.http",
-              "DocumentMoniker": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Crud_Api.http",
-              "RelativeDocumentMoniker": "Crud_Api\\Crud_Api.http",
-              "ToolTip": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Crud_Api.http",
-              "RelativeToolTip": "Crud_Api\\Crud_Api.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-09-11T13:28:31.127Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "Crud_Api\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\appsettings.Development.json",
-              "RelativeToolTip": "Crud_Api\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-11T13:28:25.544Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20250911132748_thursday.cs",
-              "DocumentMoniker": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Migrations\\20250911132748_thursday.cs",
-              "RelativeDocumentMoniker": "Crud_Api\\Migrations\\20250911132748_thursday.cs",
-              "ToolTip": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Migrations\\20250911132748_thursday.cs",
-              "RelativeToolTip": "Crud_Api\\Migrations\\20250911132748_thursday.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Models\\Auth\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Crud_Api\\Models\\Auth\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Models\\Auth\\RegisterDto.cs",
+              "RelativeToolTip": "Crud_Api\\Models\\Auth\\RegisterDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wAkAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T13:27:48.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-12T07:47:09.883Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\appsettings.json",
-              "RelativeDocumentMoniker": "Crud_Api\\appsettings.json",
-              "ToolTip": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\appsettings.json",
-              "RelativeToolTip": "Crud_Api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-08T13:34:31.766Z",
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Crud_Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Crud_Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T07:47:05.233Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
+              "Title": "20250911092241_AddImageUrlToUserAndPet.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Migrations\\20250911092241_AddImageUrlToUserAndPet.cs",
+              "RelativeDocumentMoniker": "Crud_Api\\Migrations\\20250911092241_AddImageUrlToUserAndPet.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Migrations\\20250911092241_AddImageUrlToUserAndPet.cs",
+              "RelativeToolTip": "Crud_Api\\Migrations\\20250911092241_AddImageUrlToUserAndPet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T09:22:42.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Models\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Crud_Api\\Models\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Models\\Entities\\User.cs",
+              "RelativeToolTip": "Crud_Api\\Models\\Entities\\User.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T13:22:27.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "AddUserDto.cs",
-              "DocumentMoniker": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Models\\AddUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Models\\AddUserDto.cs",
               "RelativeDocumentMoniker": "Crud_Api\\Models\\AddUserDto.cs",
-              "ToolTip": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Models\\AddUserDto.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Models\\AddUserDto.cs",
               "RelativeToolTip": "Crud_Api\\Models\\AddUserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -249,11 +251,84 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Crud_Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\appsettings.json",
+              "RelativeToolTip": "Crud_Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-08T13:34:31.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20250912081709_AddPasswordHashToUser.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Migrations\\20250912081709_AddPasswordHashToUser.cs",
+              "RelativeDocumentMoniker": "Crud_Api\\Migrations\\20250912081709_AddPasswordHashToUser.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Migrations\\20250912081709_AddPasswordHashToUser.cs",
+              "RelativeToolTip": "Crud_Api\\Migrations\\20250912081709_AddPasswordHashToUser.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T08:17:10.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Models\\UpdateUserDto.cs",
+              "RelativeDocumentMoniker": "Crud_Api\\Models\\UpdateUserDto.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Models\\UpdateUserDto.cs",
+              "RelativeToolTip": "Crud_Api\\Models\\UpdateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T05:41:57.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Crud_Api\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Crud_Api\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T13:26:16.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Models\\Auth\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Crud_Api\\Models\\Auth\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Models\\Auth\\LoginDto.cs",
+              "RelativeToolTip": "Crud_Api\\Models\\Auth\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T07:47:09.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Crud_Api\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Crud_Api\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T14:09:31.375Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
               "Title": "PetsController.cs",
-              "DocumentMoniker": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Controllers\\PetsController.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Controllers\\PetsController.cs",
               "RelativeDocumentMoniker": "Crud_Api\\Controllers\\PetsController.cs",
-              "ToolTip": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Controllers\\PetsController.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Controllers\\PetsController.cs",
               "RelativeToolTip": "Crud_Api\\Controllers\\PetsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -263,9 +338,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "AddPetDto.cs",
-              "DocumentMoniker": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Models\\AddPetDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Models\\AddPetDto.cs",
               "RelativeDocumentMoniker": "Crud_Api\\Models\\AddPetDto.cs",
-              "ToolTip": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Models\\AddPetDto.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Models\\AddPetDto.cs",
               "RelativeToolTip": "Crud_Api\\Models\\AddPetDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -273,84 +348,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Models\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "Crud_Api\\Models\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Models\\Entities\\User.cs",
-              "RelativeToolTip": "Crud_Api\\Models\\Entities\\User.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAuwBsAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T13:22:27.537Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AddProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Models\\AddProductDto.cs",
-              "RelativeDocumentMoniker": "Crud_Api\\Models\\AddProductDto.cs",
-              "ToolTip": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Models\\AddProductDto.cs",
-              "RelativeToolTip": "Crud_Api\\Models\\AddProductDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T08:05:44.418Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20250911092241_AddImageUrlToUserAndPet.cs",
-              "DocumentMoniker": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Migrations\\20250911092241_AddImageUrlToUserAndPet.cs",
-              "RelativeDocumentMoniker": "Crud_Api\\Migrations\\20250911092241_AddImageUrlToUserAndPet.cs",
-              "ToolTip": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Migrations\\20250911092241_AddImageUrlToUserAndPet.cs",
-              "RelativeToolTip": "Crud_Api\\Migrations\\20250911092241_AddImageUrlToUserAndPet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T09:22:42.578Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AdoptionListingsController.cs",
-              "DocumentMoniker": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Controllers\\AdoptionListingsController.cs",
-              "RelativeDocumentMoniker": "Crud_Api\\Controllers\\AdoptionListingsController.cs",
-              "ToolTip": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Controllers\\AdoptionListingsController.cs",
-              "RelativeToolTip": "Crud_Api\\Controllers\\AdoptionListingsController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T08:39:32.342Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Crud_Api\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Crud_Api\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T14:09:31.375Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UpdateUserDto.cs",
-              "DocumentMoniker": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Models\\UpdateUserDto.cs",
-              "RelativeDocumentMoniker": "Crud_Api\\Models\\UpdateUserDto.cs",
-              "ToolTip": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Models\\UpdateUserDto.cs",
-              "RelativeToolTip": "Crud_Api\\Models\\UpdateUserDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T05:41:57.921Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 10,
               "Title": "UpdatePetDto.cs",
-              "DocumentMoniker": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Models\\UpdatePetDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Models\\UpdatePetDto.cs",
               "RelativeDocumentMoniker": "Crud_Api\\Models\\UpdatePetDto.cs",
-              "ToolTip": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Models\\UpdatePetDto.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Models\\UpdatePetDto.cs",
               "RelativeToolTip": "Crud_Api\\Models\\UpdatePetDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -358,23 +360,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Crud_Api\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Crud_Api\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAwEIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T13:26:16.846Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 15,
               "Title": "FeedbackController.cs",
-              "DocumentMoniker": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Controllers\\FeedbackController.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Controllers\\FeedbackController.cs",
               "RelativeDocumentMoniker": "Crud_Api\\Controllers\\FeedbackController.cs",
-              "ToolTip": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Controllers\\FeedbackController.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Controllers\\FeedbackController.cs",
               "RelativeToolTip": "Crud_Api\\Controllers\\FeedbackController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -384,9 +374,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "UpdateFeedbackDto.cs",
-              "DocumentMoniker": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Models\\UpdateFeedbackDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Models\\UpdateFeedbackDto.cs",
               "RelativeDocumentMoniker": "Crud_Api\\Models\\UpdateFeedbackDto.cs",
-              "ToolTip": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Models\\UpdateFeedbackDto.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Models\\UpdateFeedbackDto.cs",
               "RelativeToolTip": "Crud_Api\\Models\\UpdateFeedbackDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -396,9 +386,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "AddFeedbackDto.cs",
-              "DocumentMoniker": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Models\\AddFeedbackDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Models\\AddFeedbackDto.cs",
               "RelativeDocumentMoniker": "Crud_Api\\Models\\AddFeedbackDto.cs",
-              "ToolTip": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Models\\AddFeedbackDto.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Models\\AddFeedbackDto.cs",
               "RelativeToolTip": "Crud_Api\\Models\\AddFeedbackDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -408,9 +398,9 @@
               "$type": "Document",
               "DocumentIndex": 39,
               "Title": "20250911084235_Addoption_Listing.cs",
-              "DocumentMoniker": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Migrations\\20250911084235_Addoption_Listing.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Migrations\\20250911084235_Addoption_Listing.cs",
               "RelativeDocumentMoniker": "Crud_Api\\Migrations\\20250911084235_Addoption_Listing.cs",
-              "ToolTip": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Migrations\\20250911084235_Addoption_Listing.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Migrations\\20250911084235_Addoption_Listing.cs",
               "RelativeToolTip": "Crud_Api\\Migrations\\20250911084235_Addoption_Listing.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -419,10 +409,22 @@
             {
               "$type": "Document",
               "DocumentIndex": 18,
+              "Title": "AdoptionListingsController.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Controllers\\AdoptionListingsController.cs",
+              "RelativeDocumentMoniker": "Crud_Api\\Controllers\\AdoptionListingsController.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Controllers\\AdoptionListingsController.cs",
+              "RelativeToolTip": "Crud_Api\\Controllers\\AdoptionListingsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T08:39:32.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "UpdateAdoptionListingDto.cs",
-              "DocumentMoniker": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Models\\UpdateAdoptionListingDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Models\\UpdateAdoptionListingDto.cs",
               "RelativeDocumentMoniker": "Crud_Api\\Models\\UpdateAdoptionListingDto.cs",
-              "ToolTip": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Models\\UpdateAdoptionListingDto.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Models\\UpdateAdoptionListingDto.cs",
               "RelativeToolTip": "Crud_Api\\Models\\UpdateAdoptionListingDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -430,11 +432,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "AddAdoptionListingDto.cs",
-              "DocumentMoniker": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Models\\AddAdoptionListingDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Models\\AddAdoptionListingDto.cs",
               "RelativeDocumentMoniker": "Crud_Api\\Models\\AddAdoptionListingDto.cs",
-              "ToolTip": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Models\\AddAdoptionListingDto.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Models\\AddAdoptionListingDto.cs",
               "RelativeToolTip": "Crud_Api\\Models\\AddAdoptionListingDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -444,9 +446,9 @@
               "$type": "Document",
               "DocumentIndex": 40,
               "Title": "20250911082615_Cart_System.cs",
-              "DocumentMoniker": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Migrations\\20250911082615_Cart_System.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Migrations\\20250911082615_Cart_System.cs",
               "RelativeDocumentMoniker": "Crud_Api\\Migrations\\20250911082615_Cart_System.cs",
-              "ToolTip": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Migrations\\20250911082615_Cart_System.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Migrations\\20250911082615_Cart_System.cs",
               "RelativeToolTip": "Crud_Api\\Migrations\\20250911082615_Cart_System.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -454,11 +456,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "CartController.cs",
-              "DocumentMoniker": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Controllers\\CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "Crud_Api\\Controllers\\CartController.cs",
-              "ToolTip": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Controllers\\CartController.cs",
               "RelativeToolTip": "Crud_Api\\Controllers\\CartController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -466,11 +468,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "UpdateCartItemDto.cs",
-              "DocumentMoniker": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Models\\UpdateCartItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Models\\UpdateCartItemDto.cs",
               "RelativeDocumentMoniker": "Crud_Api\\Models\\UpdateCartItemDto.cs",
-              "ToolTip": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Models\\UpdateCartItemDto.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Models\\UpdateCartItemDto.cs",
               "RelativeToolTip": "Crud_Api\\Models\\UpdateCartItemDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -478,11 +480,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "AddCartItemDto.cs",
-              "DocumentMoniker": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Models\\AddCartItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Models\\AddCartItemDto.cs",
               "RelativeDocumentMoniker": "Crud_Api\\Models\\AddCartItemDto.cs",
-              "ToolTip": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Models\\AddCartItemDto.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Models\\AddCartItemDto.cs",
               "RelativeToolTip": "Crud_Api\\Models\\AddCartItemDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -490,11 +492,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "AddAppointmentDto.cs",
-              "DocumentMoniker": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Models\\AddAppointmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Models\\AddAppointmentDto.cs",
               "RelativeDocumentMoniker": "Crud_Api\\Models\\AddAppointmentDto.cs",
-              "ToolTip": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Models\\AddAppointmentDto.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Models\\AddAppointmentDto.cs",
               "RelativeToolTip": "Crud_Api\\Models\\AddAppointmentDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -502,11 +504,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Controllers\\ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Crud_Api\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Crud_Api\\Controllers\\ProductsController.cs",
               "ViewState": "AgIAAEoAAAAAAAAAAADwv1MAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -516,9 +518,9 @@
               "$type": "Document",
               "DocumentIndex": 41,
               "Title": "20250911081018_Products.cs",
-              "DocumentMoniker": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Migrations\\20250911081018_Products.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Migrations\\20250911081018_Products.cs",
               "RelativeDocumentMoniker": "Crud_Api\\Migrations\\20250911081018_Products.cs",
-              "ToolTip": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Migrations\\20250911081018_Products.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Migrations\\20250911081018_Products.cs",
               "RelativeToolTip": "Crud_Api\\Migrations\\20250911081018_Products.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -526,11 +528,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "UpdateProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Models\\UpdateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Models\\UpdateProductDto.cs",
               "RelativeDocumentMoniker": "Crud_Api\\Models\\UpdateProductDto.cs",
-              "ToolTip": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Models\\UpdateProductDto.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Models\\UpdateProductDto.cs",
               "RelativeToolTip": "Crud_Api\\Models\\UpdateProductDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -538,11 +540,23 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AddProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Models\\AddProductDto.cs",
+              "RelativeDocumentMoniker": "Crud_Api\\Models\\AddProductDto.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Models\\AddProductDto.cs",
+              "RelativeToolTip": "Crud_Api\\Models\\AddProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T08:05:44.418Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 42,
               "Title": "20250911075452_Health_Record.cs",
-              "DocumentMoniker": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Migrations\\20250911075452_Health_Record.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Migrations\\20250911075452_Health_Record.cs",
               "RelativeDocumentMoniker": "Crud_Api\\Migrations\\20250911075452_Health_Record.cs",
-              "ToolTip": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Migrations\\20250911075452_Health_Record.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Migrations\\20250911075452_Health_Record.cs",
               "RelativeToolTip": "Crud_Api\\Migrations\\20250911075452_Health_Record.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -550,11 +564,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "HealthRecordsController.cs",
-              "DocumentMoniker": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Controllers\\HealthRecordsController.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Controllers\\HealthRecordsController.cs",
               "RelativeDocumentMoniker": "Crud_Api\\Controllers\\HealthRecordsController.cs",
-              "ToolTip": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Controllers\\HealthRecordsController.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Controllers\\HealthRecordsController.cs",
               "RelativeToolTip": "Crud_Api\\Controllers\\HealthRecordsController.cs",
               "ViewState": "AgIAAD4AAAAAAAAAAAAIwEkAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -562,11 +576,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "UpdateHealthRecordDto.cs",
-              "DocumentMoniker": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Models\\UpdateHealthRecordDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Models\\UpdateHealthRecordDto.cs",
               "RelativeDocumentMoniker": "Crud_Api\\Models\\UpdateHealthRecordDto.cs",
-              "ToolTip": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Models\\UpdateHealthRecordDto.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Models\\UpdateHealthRecordDto.cs",
               "RelativeToolTip": "Crud_Api\\Models\\UpdateHealthRecordDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -574,11 +588,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "AddHealthRecordDto.cs",
-              "DocumentMoniker": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Models\\AddHealthRecordDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Models\\AddHealthRecordDto.cs",
               "RelativeDocumentMoniker": "Crud_Api\\Models\\AddHealthRecordDto.cs",
-              "ToolTip": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Models\\AddHealthRecordDto.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Models\\AddHealthRecordDto.cs",
               "RelativeToolTip": "Crud_Api\\Models\\AddHealthRecordDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -586,11 +600,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "20250911065933_FixedAppointments.cs",
-              "DocumentMoniker": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Migrations\\20250911065933_FixedAppointments.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Migrations\\20250911065933_FixedAppointments.cs",
               "RelativeDocumentMoniker": "Crud_Api\\Migrations\\20250911065933_FixedAppointments.cs",
-              "ToolTip": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Migrations\\20250911065933_FixedAppointments.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Migrations\\20250911065933_FixedAppointments.cs",
               "RelativeToolTip": "Crud_Api\\Migrations\\20250911065933_FixedAppointments.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAgwAcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -598,23 +612,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "20250911055511_Appointment_Api.cs",
               "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Migrations\\20250911055511_Appointment_Api.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Migrations\\20250911055511_Appointment_Api.cs",
+              "RelativeDocumentMoniker": "Crud_Api\\Migrations\\20250911055511_Appointment_Api.cs",
               "ToolTip": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Migrations\\20250911055511_Appointment_Api.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Migrations\\20250911055511_Appointment_Api.cs",
+              "RelativeToolTip": "Crud_Api\\Migrations\\20250911055511_Appointment_Api.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-11T05:55:12.581Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "AppointmentsController.cs",
-              "DocumentMoniker": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Controllers\\AppointmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Controllers\\AppointmentsController.cs",
               "RelativeDocumentMoniker": "Crud_Api\\Controllers\\AppointmentsController.cs",
-              "ToolTip": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Controllers\\AppointmentsController.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Controllers\\AppointmentsController.cs",
               "RelativeToolTip": "Crud_Api\\Controllers\\AppointmentsController.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAowCMAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -622,11 +636,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "UpdateAppointmentDto.cs",
-              "DocumentMoniker": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Models\\UpdateAppointmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Models\\UpdateAppointmentDto.cs",
               "RelativeDocumentMoniker": "Crud_Api\\Models\\UpdateAppointmentDto.cs",
-              "ToolTip": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Models\\UpdateAppointmentDto.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Models\\UpdateAppointmentDto.cs",
               "RelativeToolTip": "Crud_Api\\Models\\UpdateAppointmentDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -636,9 +650,9 @@
               "$type": "Document",
               "DocumentIndex": 37,
               "Title": "20250910165012_Pets_Entity.cs",
-              "DocumentMoniker": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Migrations\\20250910165012_Pets_Entity.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Migrations\\20250910165012_Pets_Entity.cs",
               "RelativeDocumentMoniker": "Crud_Api\\Migrations\\20250910165012_Pets_Entity.cs",
-              "ToolTip": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Migrations\\20250910165012_Pets_Entity.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Migrations\\20250910165012_Pets_Entity.cs",
               "RelativeToolTip": "Crud_Api\\Migrations\\20250910165012_Pets_Entity.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -648,9 +662,9 @@
               "$type": "Document",
               "DocumentIndex": 38,
               "Title": "20250910141809_Db_to_user.cs",
-              "DocumentMoniker": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Migrations\\20250910141809_Db_to_user.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Migrations\\20250910141809_Db_to_user.cs",
               "RelativeDocumentMoniker": "Crud_Api\\Migrations\\20250910141809_Db_to_user.cs",
-              "ToolTip": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Migrations\\20250910141809_Db_to_user.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Migrations\\20250910141809_Db_to_user.cs",
               "RelativeToolTip": "Crud_Api\\Migrations\\20250910141809_Db_to_user.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -658,11 +672,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "20250909171633_ChangePhoneToLong.cs",
-              "DocumentMoniker": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Migrations\\20250909171633_ChangePhoneToLong.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Migrations\\20250909171633_ChangePhoneToLong.cs",
               "RelativeDocumentMoniker": "Crud_Api\\Migrations\\20250909171633_ChangePhoneToLong.cs",
-              "ToolTip": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Migrations\\20250909171633_ChangePhoneToLong.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Migrations\\20250909171633_ChangePhoneToLong.cs",
               "RelativeToolTip": "Crud_Api\\Migrations\\20250909171633_ChangePhoneToLong.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -670,11 +684,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Program.cs",
               "RelativeDocumentMoniker": "Crud_Api\\Program.cs",
-              "ToolTip": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Program.cs",
               "RelativeToolTip": "Crud_Api\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -682,11 +696,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "20250909044932_First Migratiom.cs",
-              "DocumentMoniker": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Migrations\\20250909044932_First Migratiom.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Migrations\\20250909044932_First Migratiom.cs",
               "RelativeDocumentMoniker": "Crud_Api\\Migrations\\20250909044932_First Migratiom.cs",
-              "ToolTip": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Migrations\\20250909044932_First Migratiom.cs",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Migrations\\20250909044932_First Migratiom.cs",
               "RelativeToolTip": "Crud_Api\\Migrations\\20250909044932_First Migratiom.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -694,11 +708,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 7,
               "Title": "Crud_Api.csproj",
-              "DocumentMoniker": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Crud_Api.csproj",
+              "DocumentMoniker": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Crud_Api.csproj",
               "RelativeDocumentMoniker": "Crud_Api\\Crud_Api.csproj",
-              "ToolTip": "C:\\Users\\std2\\Documents\\FurSheild\\backend\\Crud_Api\\Crud_Api\\Crud_Api.csproj",
+              "ToolTip": "C:\\Users\\Hassan\\source\\repos\\Crud_Api\\Crud_Api\\Crud_Api.csproj",
               "RelativeToolTip": "Crud_Api\\Crud_Api.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",

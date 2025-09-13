@@ -5,28 +5,22 @@ import AdoptionRequest from "./pages/adoptionRequest";
 import CareLogs from "./pages/careLogs";
 import Profile from "./pages/profile";
 import Messages from "./pages/messages";
-import ShelterMain from "./layout/shelterNav"
-import Dashboard from "./pages/dashboard"
+import ShelterNav from "./layout/shelterNav";
+import Dashboard from "./pages/dashboard";
 
-function VetMain() {
+function ShelterMain() {
   return (
-
-   
-
-      <ShelterMain>
-        <Routes>
-   
-            <Route path="/dashboard" element={<Dashboard/>} />
-            <Route path="/listing" element={<AdoptionListing />} />
-            <Route path="/request" element={<AdoptionRequest />} />
-            <Route path="/logs" element={<CareLogs />} />
-            <Route path="/profile" element={<Profile />} />
-            <Route path="/messages" element={<Messages />} />
-       
-        </Routes>
-        </ShelterMain>
-      
-      );
+    <ShelterNav>
+      <Routes>
+        <Route path="/dashboard" element={<Dashboard />} />
+        <Route path="/listing" element={<AdoptionListing />} />
+        <Route path="/request" element={<AdoptionRequest />} />
+        <Route path="/logs" element={<CareLogs />} />
+        <Route path="/profile" element={<Profile />} />
+        <Route path="/messages" element={<Messages />} />
+      </Routes>
+    </ShelterNav>
+  );
 }
 
-      export default VetMain;
+export default ShelterMain;
